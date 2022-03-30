@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: aaf16c37-94b2-7a9c-78c2-45428ea4924e
 resourcetype: Image
 title: survey_snapshot.png
 uid: 445d5e10-0fba-08d2-2bde-67651d166937

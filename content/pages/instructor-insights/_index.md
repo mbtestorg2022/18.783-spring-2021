@@ -55,7 +55,7 @@ Curriculum Information
 
 ### Prerequisites
 
-A course in algebra covering groups, rings, and fields (including Galois theory) at the level of [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/) or [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011/).
+A course in algebra covering groups, rings, and fields (including Galois theory) at the level of [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010) or [_18.702 Algebra II_](/courses/18-702-algebra-ii-spring-2011).
 
 ### Requirements Satisfied
 
